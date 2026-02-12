@@ -5,6 +5,7 @@
   <project_license>GPL-3.0-only</project_license>
   <name>Camera</name>
   <name xml:lang="cs">Kamera</name>
+  <name xml:lang="uk">Камера</name>
   <summary>Capture photos and videos</summary>
   <summary xml:lang="cs">Pořizujte fotografie a videa</summary>
   <summary xml:lang="uk">Знімайте фото та відео</summary>
